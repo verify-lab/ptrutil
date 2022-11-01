@@ -2,6 +2,8 @@
 
 > Package ptrutil provides helpers to convert values to pointers and pointers values
 
+![Tests](https://github.com/verify-lab/ptrutil/actions/workflows/tests.yml/badge.svg)
+
 ## Install
 
 ```sh
